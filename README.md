@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 
-**I'm Camille** Here I am sharing some of my work, occupations and hobbies.
+**I'm Camille** and here I am sharing some of my work, occupations, and hobbies.
 
 ---
 
 ### About me
-I love leading projects of any kine, Reasherch and inovation always attract me 
+I love leading projects of any kind and Research and innovation always attract me
 
-- Proficient in Production, Organization, Managing. 
-- I like Codding, UX/UI, Marketing
-- Always exited about creation and inovation. ⚡️ Feel free to reach me out for **any** project ⚡️
+- Proficient in Production, Organization, and Managing. 
+- I like Coding, UX/UI design, Marketing
+- Always excited about creation and innovation. ⚡️ Feel free to reach out to me for **any** project ⚡️
   
 - 🌱 I’m currently learning AI and international business
 
@@ -29,7 +29,7 @@ What I use the most on tech projects
 
 ### Languages
 
-I can speak English, French and Spanish 
+I speak English, French and Spanish 
 
 ---
 
