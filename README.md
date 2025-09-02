@@ -1,15 +1,23 @@
 ## Hi there 👋
 
 
-**I am Camille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Camille** Here I am sharing some of my work, occupations and hobbies.
+
+### About me 
+I’m passionat about 
 
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 You can reach me throught: camillearmand30@gmail.com
 
-- ⚡ Fun fact: ...
+- 💬 Ask me about ...
+- 📫 You can reach me throught
+
+### Technologies & Tools
+
+- Languages: JavaScript, Python
+- Frameworks: React, Node.js
+- Tools: Git, VS Code, Figma 
+
+
+### I can speak english french and Spanish 
 
