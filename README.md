@@ -3,21 +3,33 @@
 
 **I'm Camille** Here I am sharing some of my work, occupations and hobbies.
 
-### <h1 style="color:red">About me</h1>
-I’m passionat about 
+---
 
+### About me
+I love leading projects of any kine, Reasherch and inovation always attract me 
 
-- 🌱 I’m currently learning ...
+- Proficient in Production, Organization, Managing. 
+- I like Codding, UX/UI, Marketing
+- Always exited about creation and inovation. ⚡️ Feel free to reach me out for **any** project ⚡️
+  
+- 🌱 I’m currently learning AI and international business
 
-- 💬 Ask me about ...
-- 📫 You can reach me throught
+---
 
 ### Technologies & Tools
+What I use the most on tech projects
 
-- Languages: JavaScript, Python
-- Frameworks: React, Node.js
-- Tools: Git, VS Code, Figma 
+- Languages: HTML, CSS, JavaScript, Python 
+- Frameworks: React
+- back dev: Nodejs
+- Database: MySQL
+- Tools: Git, VS Code, Figma, Canva, Illustrator 
 
+---
 
-### I can speak english french and Spanish 
+### Languages
+
+I can speak English, French and Spanish 
+
+---
 
