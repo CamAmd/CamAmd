@@ -3,7 +3,7 @@
 
 **I'm Camille** Here I am sharing some of my work, occupations and hobbies.
 
-### <span style="color:orange">About me</span> 
+### <h1 style="color:red">About me</h1>
 I’m passionat about 
 
 
